@@ -63,7 +63,7 @@ body {
 #start:hover, #start:active {
   cursor: pointer;
   color: white;
-  background-color: blue; //change
+  background-color: blue;
 }
 
 #start:disabled {
